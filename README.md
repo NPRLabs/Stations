@@ -6,7 +6,7 @@ Stations with three(3) letter call signs:
   KUT-FM
   WHA-AM
   WOI-FM
-
+  WOI-AM
 
 On the list of parents w/ associates (AREPS pages 25 - 29) but not in the list of stations (pages 30 - 32)
   KDFC-FM 
@@ -24,17 +24,16 @@ from the associates list (pages 33 to 43)
   
 on the list of associates (pages 25 - 29) but not on the associates list (33 to 43)
 	WHIL-FM
-	KXJZ-FM
 	WBSL-FM
 	WHDD-AM
-	WSTC-AM
 	WKWM-FM
 	WDCO-FM
-	WIPA-FM
 	KXWT-FM
 	WEMC-FM
-	WMVE-FM 
-	WCNV-FM 
 	KXNJ-FM
 	WVNP-FM
 	WVLS-FM
+is actually a parent station - removed from the list of associates
+	KXJZ-FM
+changed - WSTC-FM should be WSTC-AM
+
