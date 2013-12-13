@@ -37,3 +37,12 @@ is actually a parent station - removed from the list of associates
 	KXJZ-FM
 changed - WSTC-FM should be WSTC-AM
 
+
+on the list, 
+  KMSE-FM - shows up twice
+  KSFC-FM - shows as an associate of both KPBX-FM & KUWR-FM
+  KTWP-FM - shows as an associate of both KUWR-FM & KPBX-FM
+  
+
+
+
