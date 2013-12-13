@@ -42,7 +42,21 @@ on the list,
   KMSE-FM - shows up twice
   KSFC-FM - shows as an associate of both KPBX-FM & KUWR-FM
   KTWP-FM - shows as an associate of both KUWR-FM & KPBX-FM
-  
+  WVPN-FM on page 42 (whooling wv) should be WVNP-FM, in Wheeling, WV  
 
-
-
+Is on the list (33 to 43) but is not on the associated to page (25 to 29)
+  KNMC-FM
+  KXJS-FM
+  KXTW-FM
+  WBLU-FM
+  WCMB-FM
+  WCML-FM
+  WCMW-FM
+  WCMZ-FM
+  WGVS-AM
+  WGVS-FM
+  WMKO-FM
+  WMUM-FM
+  WSMR-FM
+  WUCX-FM
+  WWCM-FM
